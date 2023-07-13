@@ -47,6 +47,7 @@ const Home = () => {
               />
             </motion.div>
           </motion.div>
+          <p className="max-w-md font-normal text-gray-600 text-base">Art by Paul Ngugi</p>
         </motion.section>
       )}
     </AnimatePresence>
